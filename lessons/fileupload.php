@@ -54,7 +54,7 @@
 
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>"
         method="POST" enctype="multipart/form-data">
-        Select:
+        Select: 
             <input type="file" name="upload">
             <input type="submit" value="Submit" name="Submit">
     
